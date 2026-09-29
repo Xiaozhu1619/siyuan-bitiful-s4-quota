@@ -1,0 +1,13 @@
+# 构建产物：由 build.py 生成，随 GitHub Release 作为附件上传，不进版本库
+package.zip
+
+# 系统与编辑器
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc

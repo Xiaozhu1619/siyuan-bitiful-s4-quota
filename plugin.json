@@ -1,0 +1,27 @@
+{
+  "name": "siyuan-bitiful-s4-quota",
+  "author": "Xiaozhu1619",
+  "url": "https://github.com/Xiaozhu1619/siyuan-bitiful-s4-quota",
+  "version": "0.1.0",
+  "minAppVersion": "3.0.0",
+  "disabledInPublish": true,
+  "backends": ["all"],
+  "frontends": ["desktop", "desktop-window", "mobile"],
+  "displayName": {
+    "default": "Bitiful S4 Quota",
+    "zh_CN": "缤纷云 S4 用量看板",
+    "en_US": "Bitiful S4 Quota"
+  },
+  "description": {
+    "default": "One click to see Bitiful S4 quota usage: API requests, egress traffic and storage, with progress bars against the free tier.",
+    "zh_CN": "一键查看缤纷云 S4 的免费额度消耗：API 请求数、出口流量、存储容量，进度条直观显示占比。",
+    "en_US": "One click to see Bitiful S4 quota usage with progress bars."
+  },
+  "readme": {
+    "default": "README.md",
+    "zh_CN": "README_zh_CN.md"
+  },
+  "icon": "icon.png",
+  "preview": "preview.png",
+  "keywords": ["bitiful", "s4", "缤纷云", "quota", "usage", "sync", "额度", "用量"]
+}
